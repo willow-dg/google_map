@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8471ed7-80e4-469d-8312-5e09811321df" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/googleMap/googleMap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/googleMap/googleMap.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/googleMap/runoob-tryhtml_map_first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource/Dragon.png" afterDir="false" />
+    <list default="true" id="c8471ed7-80e4-469d-8312-5e09811321df" name="更改" comment="feat(googleMap): 初始化Google地图并添加标记功能&#10;&#10;- 添加Google地图基础HTML文件，包含地图初始化代码&#10;- 配置地图中心点、缩放级别和多种地图类型（ROADMAP、SATELLITE、HYBRID、TERRAIN）- 实现标记功能，支持跳动动画和自定义图标- 注释掉部分未启用的地图容器和标记代码&#10;- 添加学习笔记和API调用经验总结- 包含一个简化版的入门示例页面">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/googleMap/googleMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/googleMap/googleMap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/googleMap/googleMap.md" beforeDir="false" afterPath="$PROJECT_DIR$/googleMap/googleMap.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +17,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="36s15CxqvTKMLhT0Yb4eMKIYAKI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,8 +29,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/26272/Desktop/Web/google_map/resource",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -66,11 +67,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765780283125</updated>
-      <workItem from="1765780284302" duration="9843000" />
+      <workItem from="1765780284302" duration="10201000" />
+      <workItem from="1765861320786" duration="16386000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(googleMap): 初始化Google地图并添加标记功能&#10;&#10;- 添加Google地图基础HTML文件，包含地图初始化代码&#10;- 配置地图中心点、缩放级别和多种地图类型（ROADMAP、SATELLITE、HYBRID、TERRAIN）- 实现标记功能，支持跳动动画和自定义图标- 注释掉部分未启用的地图容器和标记代码&#10;- 添加学习笔记和API调用经验总结- 包含一个简化版的入门示例页面">
+      <option name="closed" value="true" />
+      <created>1765792566724</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765792566724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(googleMap): 初始化Google地图并添加标记功能&#10;&#10;- 添加Google地图基础HTML文件，包含地图初始化代码&#10;- 配置地图中心点、缩放级别和多种地图类型（ROADMAP、SATELLITE、HYBRID、TERRAIN）- 实现标记功能，支持跳动动画和自定义图标- 注释掉部分未启用的地图容器和标记代码&#10;- 添加学习笔记和API调用经验总结- 包含一个简化版的入门示例页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(googleMap): 初始化Google地图并添加标记功能&#10;&#10;- 添加Google地图基础HTML文件，包含地图初始化代码&#10;- 配置地图中心点、缩放级别和多种地图类型（ROADMAP、SATELLITE、HYBRID、TERRAIN）- 实现标记功能，支持跳动动画和自定义图标- 注释掉部分未启用的地图容器和标记代码&#10;- 添加学习笔记和API调用经验总结- 包含一个简化版的入门示例页面" />
   </component>
 </project>
